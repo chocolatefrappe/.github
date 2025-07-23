@@ -8,16 +8,8 @@ A customized template of the Official NGINX image with a configuration generated
 
 [Docs](https://chocolatefrappe.xyz/nginx) | [Source](https://github.com/chocolatefrappe/nginx) | [Docker Hub](https://hub.docker.com/r/chocolatefrappe/nginx)
 
-## `nginx-modules`
+## `nginx-builder`
 
-A pre-built NGINX modules for Official NGINX container.
+An experimental NGINX builder that allows you to build a custom NGINX image with selected modules using Docker BuildKit and Docker Bake.
 
-[Docs](https://chocolatefrappe.xyz/nginx-modules) | [Source](https://github.com/chocolatefrappe/nginx-modules) | [Docker Hub](https://hub.docker.com/r/chocolatefrappe/nginx-modules)
-
----
-
-## `nginx-s3-gateway`
-
-NGINX S3 Caching Gateway.
-
-[Docs](https://chocolatefrappe.xyz/nginx-s3-gateway) | [Source](https://github.com/chocolatefrappe/nginx-s3-gateway) | [Docker Hub](https://hub.docker.com/r/chocolatefrappe/nginx-s3-gateway)
+[Docs](https://chocolatefrappe.xyz/nginx-builder) | [Source](https://github.com/chocolatefrappe/nginx-builder) 
